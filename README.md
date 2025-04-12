@@ -32,7 +32,7 @@ The **MNIST Handwritten Digit Dataset** is used for this project. It contains a 
 
 > The model was trained using the following parameters:
 > 
-> * **Optimizer:** [ Adam, SGD]
+> * **Optimizer:** [ Adam ]
 > * **Loss Function:** [ Categorical Cross-entropy]
 > * **Batch Size:** 1313
 > * **Number of Epochs:** 5
