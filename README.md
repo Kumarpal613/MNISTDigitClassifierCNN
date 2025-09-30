@@ -39,19 +39,11 @@ The **MNIST Handwritten Digit Dataset** is used for this project. It contains a 
 
 ## Evaluation
 
-*(Provide details about the evaluation and the performance achieved. )*
-
 > The trained CNN model was evaluated on the MNIST test set. The evaluation metrics used include:
 >
 > * **Accuracy:** 0.9869
 > * **Loss:** 0.0395
 >
 
-
-## Usage
-
-*(Optional: Briefly explain how someone can run the code and potentially test it with new digit images if you've included that functionality.)*
-
-> After running the main script, the model will train on the MNIST dataset and then evaluate its performance on the test set. [If applicable, mention how to test with new images.]
 
 
